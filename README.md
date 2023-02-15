@@ -1,4 +1,4 @@
-## Discord Bot
+## Miru App
 
 > **Warning**
 >
