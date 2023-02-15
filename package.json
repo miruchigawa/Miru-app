@@ -1,0 +1,11 @@
+{
+  "name": "discordjs",
+  "version": "0.0.1",
+  "description": "Simple discord js",
+  "main": "index.js",
+  "author": "Miftah Fauzan",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
