@@ -1,6 +1,6 @@
 ## Discord Bot
 
-> ** Warning **
+> **Warning**
 >
 > Project not finished yet!
 
